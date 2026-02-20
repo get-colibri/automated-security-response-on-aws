@@ -104,7 +104,7 @@ Since, by default, ASR only implements playbooks for AFSBP & NIST.800-53, we wil
 
 - source/playbooks/SC/ssmdocs/SC_ElastiCache.2.ts
 - source/playbooks/SC/ssmdocs/descriptions/ElastiCache.2.md
-- source/remediation_runbooks/EnableElastiCacheVersionUpgrades.yaml wie sieht es aus wenn ich jet
+- source/remediation_runbooks/EnableElastiCacheVersionUpgrades.yaml wie sieht es aus wenn ich jetzt eine ändernung mache?
 > ℹ️ ***NOTE:*** The name chosen for the runbook can be any string, as long as it is consistent with the rest of the changes made.
 - source/playbooks/NIST80053/ssmdocs/NIST80053_ElastiCache.2.ts
 - source/playbooks/AFSBP/ssmdocs/AFSBP_ElastiCache.2.yaml
