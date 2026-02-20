@@ -291,7 +291,7 @@ Finding Format for the security control.
 For PCI-DSS, we used "PCI" for the standard abbreviation. The version is 321: **PCI321**
 
 
-```yaml
+```plain
 "StandardsControlArn": "arn:aws:securityhub:us-east-1:111111111111:control/pci-dss/v/3.2.1/PCI.IAM.7"
 ```
 
